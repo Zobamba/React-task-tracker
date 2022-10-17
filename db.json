@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "text": "Write Code",
+      "day": "Sunday",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Spread love",
+      "day": "Everyday",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Get away",
+      "day": "Thursday",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Go to Work",
+      "day": "Saturday",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Be Kind",
+      "day": "Never",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "Stay happy",
+      "day": "Always",
+      "reminder": true,
+      "id": 9
+    }
+  ]
+}
